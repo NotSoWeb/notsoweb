@@ -1,0 +1,13 @@
+{
+    "name": "notsoweb/notsoweb",
+    "description": "Este es un framework que facilita la programaci\u0000n de aplicaciones complejas.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Moisés de Jesús Cortés Castellanos",
+            "email": "ing.moisesdejesuscortesc@notsoweb.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
